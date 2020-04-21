@@ -3,6 +3,8 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
       <module name="TransportApp.app" target="1.8" />
+      <module name="TransportApp.data" target="1.8" />
+      <module name="TransportApp.domain" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
